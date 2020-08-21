@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QR Code</string>
+    <string name="Generate">Generate</string>
+    <string name="Scan">Scan</string>
+    <string name="madeby">MADE with LOVE from Vaibhav Sharma</string>
+    <string name="url">Enter URL or something</string>
+    <string name="madebyy">MADE with LOVE from VAIBHAV SHARMA</string>
+    <string name="BeepSound">Beep Sound</string>
+    <string name="notifyallow">Allow Notifications</string>
+    <string name="allownotify">Notifications</string>
+    <string name="beepsoundd">Beep Sound</string>
+    <string name="copyright" />
+    <string name="qrr"><![CDATA[QRCode : Generate & Scan]]></string>
+    <string name="apppnammeee">QRCode/Barcode : Generate  Scan</string>
+    <string name="appnamee"><![CDATA[QRCode/Barcode : Generate & Scan]]></string>
+</resources>
