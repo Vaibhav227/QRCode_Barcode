@@ -5,7 +5,7 @@ UPDATE: Dark Mode is up!Go to settings to turn it on.
 
 
 GENERATE
-1. Write text or Link (Anything yo want).
+1. Write text or Link (Anything you want).
 2. Choose one of the options.You can generate either Barcode or QR Code.
 3. Tadaaa!Your Code is generated.
 
